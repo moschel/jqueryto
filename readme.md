@@ -6,16 +6,10 @@
 
 ## __Who__ Am I?
 
-### David Luecke
-
-<i class="icon-twitter-bird large"></i>
-[@daffl](https://twitter.com/daffl)
-
-<i class="icon-github large"></i>
-[github.com/daffl](https://github.com/daffl)
+### Brian Moschel
 
 <i class="icon-picture large"></i>
-[https://github.com/daffl/jqueryto](http://github.com/daffl/jqueryto)
+[https://github.com/moschel/jqueryto](http://github.com/moschel/jqueryto)
 
 ![Bitovi Logo](images/bitovi_logo_black.png)
 
